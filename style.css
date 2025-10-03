@@ -1,0 +1,147 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+#img-logo {
+  width: 10%;
+  margin-top: 5px;
+  margin-left: 15px;
+}
+
+#Logo {
+  background-color: rgba(34, 47, 63);
+}
+
+.p-nav {
+  display: inline;
+  padding: 7px;
+}
+
+#Nav {
+  background-color: rgba(54, 71, 89);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  font-size: 0.8em;
+}
+
+#orange {
+  background-color: rgba(244, 102, 0);
+  color: white;
+  text-align: center;
+  margin: 20px;
+
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+#primo {
+  text-align: center;
+  height: 150px;
+  background-image: url(assets/images/bg-image.png);
+
+  background-size: contain;
+  margin-bottom: 30px;
+}
+
+h1 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+h3 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#testi-primo {
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+#secondo {
+  padding-top: 50px;
+  display: inline;
+  height: 200px;
+}
+
+.img2 {
+  height: 25%;
+  width: auto;
+  display: inline;
+  align-items: center;
+}
+
+.img2 img {
+  height: 170px;
+  width: 22%;
+  align-self: center;
+  margin-left: 25px;
+  border-radius: 7%;
+}
+
+#secondo p {
+  margin: 20px;
+}
+
+.show {
+  color: rgb(17, 127, 206);
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: none;
+}
+
+.img3 {
+  height: 300px;
+  margin: 25px;
+  background-size: contain;
+  width: 95%;
+}
+
+#terzo {
+  width: 100%;
+  text-align: center;
+  padding-right: 25px;
+}
+
+.img4 {
+  height: 300px;
+  margin: 25px;
+  background-size: contain;
+  width: 95%;
+}
+
+#quarto {
+  width: 100%;
+  text-align: center;
+  padding-right: 25px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 30px;
+}
+
+.f2 img {
+  width: 16%;
+}
+
+.f2 {
+  background-color: rgba(34, 47, 63);
+  padding-top: 35px;
+  padding-bottom: 25px;
+}
+.f1 {
+  background-color: rgba(54, 71, 89);
+  padding: 10px;
+}
+.f1 a {
+  color: white;
+}
